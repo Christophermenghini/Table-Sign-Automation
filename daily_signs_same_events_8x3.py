@@ -11,8 +11,8 @@ from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
 # ========= CONFIG =========
-TEMPLATE_DOC_ID = "1W6gFO2zL-qDulhsT2O1uSRP3ct3DNpxyuMXRLb1lLDQ"  # <-- Template Google Doc ID
-SILC_CAL_ID     = "cqoqsrchl91slfels587k54k9g@group.calendar.google.com"  # SILC Café calendar
+TEMPLATE_DOC_ID = ""  # <-- Template Google Doc ID
+SILC_CAL_ID     = ""  # SILC Café calendar
 TIMEZONE        = "America/Phoenix"
 
 NUM_TABLES          = 8
